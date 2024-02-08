@@ -1,0 +1,13 @@
+.dashboard .col {
+    width: 300px;
+}
+
+.dashboard .card img {
+    max-height: 150px;
+}
+
+.dashboard .card-title {
+    text-decoration: none;
+    color: navy;
+    font-weight: bold;
+}
