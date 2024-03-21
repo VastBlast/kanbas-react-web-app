@@ -5,7 +5,7 @@ import Styles from "./Styles";
 import ConditionalOutput from "./ConditionalOutput";
 import Highlight from "./Highlight";
 import Add from "./Add";
-import TodoItem from "./todos/TodoItem";
+//import TodoItem from "./todos/TodoItem";
 import TodoList from "./todos/TodoList";
 import { useSelector } from "react-redux";
 import { LabState } from "../store";
